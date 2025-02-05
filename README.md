@@ -1,5 +1,5 @@
 # connector
-> A stl shape maker to connect tube with Processing
+A stl shape maker to connect tube with Processing
 
 ## General info
 With Connector you can create connection between plastic tubes for 3D printing [like this](https://matheplica.github.io/3D.html)
